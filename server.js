@@ -1,3 +1,10 @@
+// Author: Joey Thao
+// Collaborators: Jason Yang, Sichoun Lee
+// Date: 11/28/2023
+// Description: data table.
+
+
+// Below: connects to the mysql database. 
 const express = require('express');
 const mysql = require('mysql2');
 require('dotenv').config();
