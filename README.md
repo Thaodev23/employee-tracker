@@ -1,5 +1,10 @@
 # Employee Tracker 
 
+```
+https://github.com/Thaodev23/employee-tracker
+```
+
+
 ## User Story
 
 ```
@@ -22,5 +27,18 @@ WHEN I view the employee
 THE A data table will present the employee first name, last name, role id and manager id
 ```
 
+## Collaborators
+
+```
+Jason Yang:
+Github profile - https://github.com/Jasony95
+Classmate that collaborated on the homework assignment together.
+ ```
+
+```
+Sichoun Nplhaib Lee:
+Github profile - https://github.com/DDXP3.
+Classmate that collaborated on the homework assignment together.
+```
 
 
