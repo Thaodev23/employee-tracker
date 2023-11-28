@@ -1,6 +1,7 @@
 # Employee Tracker 
 
 ```
+Github repo:
 https://github.com/Thaodev23/employee-tracker
 ```
 
