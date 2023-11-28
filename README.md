@@ -3,6 +3,9 @@
 ```
 Github repo:
 https://github.com/Thaodev23/employee-tracker
+
+README.file
+https://watch.screencastify.com/v/dbENBVImKTyWqLvovfeb
 ```
 
 
